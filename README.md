@@ -16,7 +16,6 @@ We are covering two aspects: python programming and statistics (also with python
 - [If/then/else and for loops](programming/2_Python_If_Else_Loops.ipynb)
 - [Dictionaries, Lists, Arrays](programming/3_Python_Lists_Sets_Dictionaries.ipynb)
 - [How to write a function, function arguments and so on](programming/4_Python_Functions.ipynb)
-- [Object-oriented programming](programming/5_Intro_to_OOP.ipynb)
 - [Read/write to and from files](programming/6_Read_Write_Files.ipynb)
   
 Do not forget, programming is a skill that gets better with practice, if this is your first time with python, you might need repetition. And we will practice this!
